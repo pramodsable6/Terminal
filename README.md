@@ -1,6 +1,6 @@
 # Linux commands
 
-> Adding alias
+- Adding alias
 ```shell
 alias java='java.exe'
 ```
