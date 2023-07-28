@@ -17,4 +17,4 @@ wsl --shutdown
 [wsl2]
 memory=12GB
 ```
-3. Restart WSL and run free-h to
+3. Restart WSL and run `free -h` or `htop` to check if memory config has taken effect
